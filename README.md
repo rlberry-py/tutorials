@@ -1,4 +1,4 @@
-# Reinforcement Learning Tutorials with `rlberry`
+# Reinforcement Learning Tutorials with [`rlberry`](https://github.com/rlberry-py/rlberry)
 
 ### Contents
 
